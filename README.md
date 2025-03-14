@@ -2,7 +2,7 @@
 Sohailshaik.github.io/Portfolio
 ## Bio Infarmatician
 
-###Education 
+## Education
 
 MSc in Bioinformatics (Distinction) University of West London, UK (2023 – 2024) 
 
@@ -20,15 +20,15 @@ Aurora Degree & PG College (Affiliated with Osmania University), India (2019 –
 
 GPA: 8.1/10 
 
-#Thesis: Phylogenetic Analysis of CYP11A Gene in Polycystic Ovarian Syndrome (PCOS) 
+## Thesis: Phylogenetic Analysis of CYP11A Gene in Polycystic Ovarian Syndrome (PCOS) 
 
-#Focus: Molecular evolution, computational phylogenetics, gene sequence alignment 
-
- 
+## Focus: Molecular evolution, computational phylogenetics, gene sequence alignment 
 
  
 
-###Research & Work Experience 
+ 
+## Research & Work Experience
+
 
 Research Associate – Bioinformatics (Kaggle Projects & Competitions) 
 
@@ -58,8 +58,7 @@ Used NCBI, Ensembl, MEGA, and ClustalW for sequence alignment and evolutionary t
 Investigated genetic variations linked to hormonal imbalances and metabolic pathways in PCOS. 
 
  
-
- ###Technical Skills & Tools 
+## Technical Skills &Tools
 
 Bioinformatics & Computational Biology 
 
@@ -80,8 +79,8 @@ SQL & Biological Databases (NCBI, Ensembl, UniProt, TCGA, GEO, KEGG)
 Data Visualization (Seaborn, Matplotlib, ggplot2, Plotly) 
 
  
+## Certifications & Achievements
 
-###Certifications & Achievements 
 
 IBM Data Analyst – IBM(Coursera) 
 
@@ -102,8 +101,8 @@ Top Kaggle Contributor in Bioinformatics & Machine Learning Challenges
  
 
  
+## Soft Skills
 
-###Soft Skills 
 
 Analytical Thinking & Problem-Solving 
 
@@ -111,7 +110,14 @@ Collaboration in Multidisciplinary Research Teams
 
 Scientific Communication & Data Presentation 
 
-ShapeAdaptability & Research Innovation 
+Adaptability & Research Innovation 
+
+
+## Publications & Projects
+
+Kaggle Research Projects – Published multiple bioinformatics research projects on Kaggle. 
 
  
+
+  
  
