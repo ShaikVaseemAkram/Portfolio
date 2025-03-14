@@ -20,9 +20,9 @@ Aurora Degree & PG College (Affiliated with Osmania University), India (2019 –
 
 GPA: 8.1/10 
 
-## Thesis: Phylogenetic Analysis of CYP11A Gene in Polycystic Ovarian Syndrome (PCOS) 
+Thesis: Phylogenetic Analysis of CYP11A Gene in Polycystic Ovarian Syndrome (PCOS) 
 
-## Focus: Molecular evolution, computational phylogenetics, gene sequence alignment 
+Focus: Molecular evolution, computational phylogenetics, gene sequence alignment 
 
  
 
